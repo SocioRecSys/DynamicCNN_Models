@@ -1,4 +1,4 @@
-# DynamicCNN_Models
+# Dynamic CNN Models for Fashion Recommendation in Instagram
 
 ## General Overview
 This repository contains implementation for the architectures described in the paper: Dynamic CNN Models for Fashion Recommendation in Instagram
