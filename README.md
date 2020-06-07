@@ -19,6 +19,7 @@ For citation:
 ### Dynamic CNN Models for Fashion Recommendation in Instagram
 [1] Shatha Jaradat, [2] Nima Dokoohaki, [3] Kim Hammar, [4] Ummul Wara, [5] Mihhail Matskin
 
+```
 @inproceedings{jaradat2018dynamic,
   title={Dynamic CNN Models for Fashion Recommendation in Instagram},
   author={Jaradat, Shatha and Dokoohaki, Nima and Hammar, Kim and Wara, Ummul and Matskin, Mihhail},
@@ -27,6 +28,7 @@ For citation:
   year={2018},
   organization={IEEE}
 }
+```
 
 
 
